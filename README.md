@@ -1,14 +1,20 @@
-# TensorTonic Solutions
+<div align="center">
 
-Welcome to my TensorTonic solutions repository!
+# 🧮 TensorTonic Solutions
 
-Here you'll find my solutions to various machine learning and deep learning problems from [TensorTonic](https://tensortonic.com).
+**Machine-learning algorithms implemented from scratch — no library shortcuts — verified on [TensorTonic](https://www.tensortonic.com).**
 
-## What is TensorTonic?
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-from_scratch-FF6F00?style=flat-square)
 
-TensorTonic is a platform where you can implement core algorithms of Machine Learning from scratch.
+</div>
 
-This repository contains my personal solutions to these problems, automatically synchronized from the platform.
+## About
+
+[TensorTonic](https://www.tensortonic.com) is a practice platform for implementing the core building blocks of machine learning by hand. Each folder here holds one problem: my solution (`.py`) and the problem notes (`.md`). Solutions sync automatically from the platform.
+
+The section below is maintained by TensorTonic's sync and lists every verified solution.
 
 <!-- tensortonic:start -->
 # Muhammed Safar's TensorTonic Solutions
